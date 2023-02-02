@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on The Python Blog</title>
-    <link>http://example.org/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on The Python Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Jan 2023 17:09:20 +0000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Jan 2023 17:09:20 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Decorator</title>
-      <link>http://example.org/posts/decorator/</link>
+      <link>https://example.org/posts/decorator/</link>
       <pubDate>Tue, 31 Jan 2023 17:09:20 +0000</pubDate>
       
-      <guid>http://example.org/posts/decorator/</guid>
+      <guid>https://example.org/posts/decorator/</guid>
       <description>The Decorator is used to add behaviour to an existing function. Decorators allow the programmer to run logic before and after a function runs. In the example below the example_decorator prints &amp;quot;Before function runs.&amp;quot;, runs the function that it decorates (in this case the function do_something) then prints &amp;quot;After function runs.&amp;quot;
 Where you find code repeated in multiple functions, a decorator may be useful.
 from functools import wraps def example_decorator(func): @wraps(func) def _inner(*args, **kwargs): # do something before function runs.</description>
