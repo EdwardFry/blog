@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://edwardfry.github.io/blog/posts/</loc>
-    <lastmod>2023-01-31T17:09:20+00:00</lastmod>
+    <loc>https://edwardfry.github.io/blog/posts/hellow/</loc>
+    <lastmod>2023-02-02T17:21:43+00:00</lastmod>
   </url><url>
-    <loc>https://edwardfry.github.io/blog/posts/decorator/</loc>
-    <lastmod>2023-01-31T17:09:20+00:00</lastmod>
+    <loc>https://edwardfry.github.io/blog/posts/</loc>
+    <lastmod>2023-02-02T17:21:43+00:00</lastmod>
   </url><url>
     <loc>https://edwardfry.github.io/blog/</loc>
+    <lastmod>2023-02-02T17:21:43+00:00</lastmod>
+  </url><url>
+    <loc>https://edwardfry.github.io/blog/posts/decorator/</loc>
     <lastmod>2023-01-31T17:09:20+00:00</lastmod>
   </url><url>
     <loc>https://edwardfry.github.io/blog/categories/</loc>

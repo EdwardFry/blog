@@ -1,10 +1,10 @@
 ---
-title: "The Decorator"
+title: "Python Decorators"
 date: 2023-01-31T17:09:20Z
 draft: false
 ---
 
-The Decorator is used to add behaviour to an existing function. Decorators allow
+In python, decorator are used to add behaviour to an existing function. Decorators allow
 the programmer to run logic before and after a function runs. In the example below
 the `example_decorator` prints `"Before function runs."`, runs the function that 
 it decorates (in this case the function `do_something`) then prints `"After function runs."`
